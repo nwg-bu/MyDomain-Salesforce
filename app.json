@@ -1,9 +1,9 @@
 {
-  "name": "My Domain Sample",
+  "name": "My Domain Salesforce",
   "description": "A simple example to brand your Salesforce My Domain",
-  "repository": "https://github.com/salesforceidentity/MyDomain-Sample",
+  "repository": "https://github.com/nwg-bu/MyDomain-Salesforce",
   "website": "https://www.salesforce.com/platform/identity",
-  "logo": "https://login.salesforce.com/logos/Salesforce/Salesforce/logo.png",  
+  "logo": "./OMBA_Mark_RGB.png",  
   "keywords": ["salesforce"],
   "success_url": "/",
   "env": {
